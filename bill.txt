@@ -1,0 +1,25 @@
+1x TUSB8041 					1x  8,00 €  8,00 €
+1x 24 MHz Crystal 		1x  0,30 €  0,30 €
+
+2x STUSB4710 					2x  2,00 €  4,00 €
+
+2x ATtiny1614 				2x  0,70 €  1,40 €
+2x 20 MHz Crystal 		2x  0,30 €  0,60 €
+
+1x STUSB4500 					1x  2,00 €  2,00 €
+1x p-channel Mosfet 	1x  1,00 €  1,00 €
+
+2x ISL95338 					2x  7,00 € 14,00 €
+8x n-channel Mosfet 	8x  1,00 €  8,00 €
+
+3x USB C 24pin (f) 		3x  0,90 €  2,70 €
+3x ESD 10 channels 		3x  0,80 €  2,40 €
+
+1x BD93291EFJ 				1x  0,90 €  0,90 €
+
+50x C (up to 20 V)		50x 0,10 €  5,00 €
+50x R (up to 400 mW) 	50x 0,05 €  2,50 €
+6x D 									6x  0,10 €  0,60 €
+3x L 									3x  0,50 €  1,50 €
+----------------------------------------
+																 60,00 €
